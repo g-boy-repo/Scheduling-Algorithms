@@ -1,8 +1,8 @@
 # Scheduling-Algorithms
+Updated 2 minutes ago
 
 
 
- Updated 2 minutes ago
 In my Operating System Course we have to write a program that will stimulate First Come First Serve(FCFC), Shortest Job First(SJF), shortest remaining time next(SRTnext), and Round Robin(with quantum = 4 milliseconds) scheduling algorithms.
 
 Program Task: For each algorithm, the program should compute waiting time and turn around time of every job as well as the average waiting time and average turn around time.
