@@ -17,3 +17,6 @@ Time CPU Burst (in milliseconds): 6 2 1 7 4 3
 
 
 In part B, used the program above and change the context switching time to 0.4 milliseconds. Compared outputs from both runs and showed(print) a message below which algorithm would be the better policy for the given process mix.
+
+
+Please.... Checkout the "Output" folder to see my program output.
