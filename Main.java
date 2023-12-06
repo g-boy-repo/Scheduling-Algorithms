@@ -1,5 +1,4 @@
 /*
-Felix Andrew Sapalaran
 OS project: "Scheduling Algorithms"
 Spring 2019
 */
